@@ -35,5 +35,8 @@ There is a bug in Netease windows player. It will not refresh playlist_history f
              
  5. 运行脚本 python transform.py
 
-Thanks to https://blog.csdn.net/haha1fan/article/details/104464221
+Thanks to
+
+https://blog.csdn.net/haha1fan/article/details/104464221
+
 https://github.com/Grente/cloudMusicTransform
