@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # 网易云音乐缓存转化
-
+# 纯粹学习交流， 非商业目的。
 
 # Preliminary
 # Python 3.8+
